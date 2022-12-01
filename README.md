@@ -1,0 +1,4 @@
+- 👋 Hi, My name is Chloe, I'm a current first-generation undergraduate at Barnard College of Columbia University pursuing a B.A in Cognitive Science and minor in Economics. 
+- 👀 I’m interested in the computer science aspect of cognitive science 
+- 🌱 I’m currently learning about Human-Computer Interaction, designing for social impact, and tech ethics. 
+- 📫 yw3796@columbia.edu  
